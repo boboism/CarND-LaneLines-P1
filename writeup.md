@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xcEJ3FyzKTI" frameborder="0" allowfullscreen></iframe>
+[![Lane Lines Detection](https://img.youtube.com/vi/xcEJ3FyzKTI/0.jpg)](https://www.youtube.com/watch?v=xcEJ3FyzKTI)
 
 ---
 
